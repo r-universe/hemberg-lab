@@ -3,8 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "scmap"]
-	path = scmap
-	url = https://github.com/hemberg-lab/scmap
+[submodule "SC3"]
+	path = SC3
+	url = https://github.com/hemberg-lab/sc3
 	shallow = true
 	registered = true
