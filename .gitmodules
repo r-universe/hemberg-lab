@@ -8,3 +8,8 @@
 	url = https://github.com/hemberg-lab/sc3
 	shallow = true
 	registered = true
+[submodule "scmap"]
+	path = scmap
+	url = https://github.com/hemberg-lab/scmap
+	shallow = true
+	registered = true

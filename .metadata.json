@@ -1,5 +1,8 @@
 [
   {
     "package": "SC3"
+  },
+  {
+    "package": "scmap"
   }
 ]
